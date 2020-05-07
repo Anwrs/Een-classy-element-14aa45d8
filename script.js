@@ -1,1 +1,2 @@
-document.getElementById("body").innerText = "Change it up";
+var text = document.querySelector('#text');
+text.classList.add("h1");
